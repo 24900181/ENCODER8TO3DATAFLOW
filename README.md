@@ -74,7 +74,8 @@ endmodule
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![waveform](https://github.com/user-attachments/assets/9a3485f0-0278-41e1-9828-0f6ae0bbaf7a)
+![waveform1](https://github.com/user-attachments/assets/f7217ed9-e10b-415f-82b2-7445b7de12cd)
+
 
 
 **RESULTS**

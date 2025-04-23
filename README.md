@@ -56,7 +56,7 @@ Figure 02  Encoder 8 * 3
 
 Developed by: NETHRA.K RegisterNumber:  212224230184
 ~~~
-module exp55(din,a,b,c);
+module exp5(din,a,b,c);
 input [0:7] din;
 output a,b,c;
 assign a=(din[4]|din[5]|din[6]|din[7]);
@@ -69,12 +69,18 @@ endmodule
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![gate](https://github.com/user-attachments/assets/48cd8800-1448-4cb6-b6e5-e98405cef3dd)
+
+
+![gate](https://github.com/user-attachments/assets/0cc697bb-5a5f-4557-af73-e694829e7178)
+
+
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![waveform1](https://github.com/user-attachments/assets/f7217ed9-e10b-415f-82b2-7445b7de12cd)
+
+
+![waveform](https://github.com/user-attachments/assets/34734e57-6adf-4fc2-b6ea-4d60f5062220)
 
 
 
